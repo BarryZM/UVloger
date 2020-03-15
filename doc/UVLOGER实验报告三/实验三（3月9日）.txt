@@ -1,0 +1,49 @@
+﻿实验题目：实验三  敏捷开发、CASE工具调研分析，完善SDP
+实验目的：
+（1） 继续项目沟通、调查，相应变化。
+（2） 研讨传统软工方法与敏捷开发。
+（3） 通过网络了解主流的CASE工具及发展和应用情况。
+（4） 借助相应的工具，完善之前的FAR和SDP。
+
+要求：
+1. 每组组长（可轮换制），负责小组分工、讨论、汇总。
+2. 小组工作方式，应合理分工，将小组工作文档、进度等文档都保存到共享平台上。
+3. 合理评价(互评）：根据贡献（参与小组讨论积极性、完成分工工作、提交文档质量、时间等）大小按1-5评分。
+
+实验内容：
+1. 继续分组进行项目沟通调查，相应变化。
+   项目承接方继续与需求方沟通，需求方进一步提出项目新的要求和变动。并记录项目变动情况。
+
+2. 小组分工讨论传统软工方法与敏捷开发中的几种方法的比较，分析各自的优缺点，以及如何应用于自己的项目中？
+
+3. CASE（Computer-Aided Software Engineering,计算机辅助软件工具）工具调研：
+  小组分工搜索各种主流软件工程技术网站，调研有哪些流行的CASE工具，分析它们的用途、技术特点，写出报告。
+CASE工具举例（不限）：
+Microsoft Visio; Product Studio; Visual SourceSafe；TFS
+Smartdraw
+Rational Rose
+Sybase PowerDesigner 
+Enterprise Architect
+StarUML， PlantUML
+ModelMake
+MagicDraw
+Umbrello TOgether
+Poseidon
+UMLStudio
+Visual Paradigm for UML
+Marvel
+CodeLogic
+ArchStudio (Eclipse 插件)
+Junit、MI WinRunner/ LoadRunner
+Apache JMeter
+git
+CVS
+ClearCase
+pyCharm 插件 ，如UML
+
+4. 小组根据调研情况讨论，结合自己的项目和拟使用的技术路线，选择适合的CASE工具设计，补充、完善之前所做的FAR和SDP。
+
+每个人写出汇报自己的工作报告，组长负责提交汇总报告和修改后的文档。
+
+
+
