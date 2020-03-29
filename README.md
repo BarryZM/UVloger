@@ -12,6 +12,7 @@
 | Week 2 | 曹远   | 创建《开发计划文档》     | 生命周期模型 |
 | Week 3 | 张烜   | 维护《SDP》、《FAR》    | CASE工具         |
 | Week 4 | 高德琛 | Gantt Chart、活动图     | 团队架构、工作方式|
+| Week 5 | 苑宗鹤 | 迭代《SDP》    | 工作量计算、风险分析|
 
 ## Members 
 
