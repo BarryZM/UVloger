@@ -14,6 +14,7 @@
 | Week 4 | 高德琛 | Gantt Chart、活动图     | 团队架构、工作方式  |
 | Week 5 | 苑宗鹤 | 迭代《SDP》             | 工作量计算、风险分析|
 | Week 6 | 曹远   | 创建《SRS》             | 需求工程、UML图     |
+| Week 7 | 张烜   | 迭代《SRS》             | 动态建模     |
 
 ## Members 
 
