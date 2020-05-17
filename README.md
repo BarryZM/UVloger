@@ -15,8 +15,9 @@
 | Week 5 | 苑宗鹤 | 迭代《SDP》             | 工作量计算、风险分析|
 | Week 6 | 曹远   | 创建《SRS》             | 需求工程、UML图     |
 | Week 7 | 张烜   | 迭代《SRS》             | 动态建模     |
-| Week 8 | 高德琛   | 创建《SDD》             | 软件架构     |
-| Week 7 | 苑宗鹤   | 迭代《SDD》             | 软件架构     |
+| Week 8 | 高德琛 | 创建《SDD》             | 软件架构     |
+| Week 9 | 苑宗   | 迭代《SDD》             | 软件架构     |
+| Week 10 | 曹远   | 创建《SQAP》             | ROI & Payback Period     |
 
 ## Members 
 
